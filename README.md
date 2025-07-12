@@ -19,5 +19,5 @@ To forecast stock prices based on historical patterns and market indicators, ena
 
 
 
-The Stock csv file is too big to upload 
-It is available on Kaggle 
+For csv file of Stock is too large to upload 
+You can check and download the csv file from kaggle.com
