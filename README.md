@@ -1,5 +1,5 @@
 # Stock-Price-Prediction-Using-LSTM
-# 📈 Stock Price Prediction using Machine Learning
+# Stock Price Prediction using Machine Learning
 
 This project uses historical stock market data to **predict future stock closing prices** using machine learning techniques. It combines data from multiple CSV files, processes it, trains a model, and visualizes the predictions to help identify trends and patterns in stock behavior.
 
