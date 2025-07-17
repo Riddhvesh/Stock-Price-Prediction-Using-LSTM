@@ -3,7 +3,7 @@
 
 This project uses historical stock market data to **predict future stock closing prices** using machine learning techniques. It combines data from multiple CSV files, processes it, trains a model, and visualizes the predictions to help identify trends and patterns in stock behavior.
 
-## 🚀 Overview
+## 🚀 Overvie
 
 - 📅 **Data**: Daily stock data from multiple CSV files  
 - 🧠 **Model**: Machine Learning model (e.g., Linear Regression, Random Forest, or LSTM)  
